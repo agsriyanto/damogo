@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar";
+export { default as TitleBanner } from "./TitleBanner";
+export { default as DescriptionBanner } from "./DescriptionBanner";
+export { default as ButtonBuatJanji } from "./ButtonBuatJanji";
+export { default as ButtonBertemu } from "./ButtonBertemu";
+export { default as ImageBanner } from "./ImageBanner";
+export { default as TitleDamogo } from "./TitleDamogo";
+export { default as TitleDemoAplikasi } from "./TitleDemoAplikasi";
+export { default as ImageDemo } from "./ImageDemo";
+export { default as TitleAboutDamogo } from "./TitleAboutDamogo";
+export { default as ButtonDemo } from "./ButtonDemo";
