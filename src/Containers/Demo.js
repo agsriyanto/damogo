@@ -10,14 +10,13 @@ import {
 
 export default function Demo() {
   const styles = {
-    title: {
-      color: "#00A3F4",
-      margin: "10px",
-    },
     demo: {
       margin: "30px 80px",
       marginTop: "100px",
-      position: "absolute",
+    },
+    title: {
+      color: "#00A3F4",
+      margin: "10px",
     },
     content: {
       display: "flex",

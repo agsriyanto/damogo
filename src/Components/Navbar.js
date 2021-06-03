@@ -15,6 +15,7 @@ export default function Navbar() {
     },
     title: {
       margin: "0px 15px",
+      cursor: "pointer",
     },
   };
 

@@ -1,5 +1,14 @@
 import "./App.css";
-import { Home, Banner, Demo } from "./Containers";
+import {
+  Home,
+  Banner,
+  Demo,
+  Blog,
+  Kerjasama,
+  Restoran,
+  Supplier,
+  Footer,
+} from "./Containers";
 
 function App() {
   return (
@@ -7,6 +16,11 @@ function App() {
       <Home />
       <Banner />
       <Demo />
+      <Blog />
+      <Kerjasama />
+      <Restoran />
+      <Supplier />
+      <Footer />
     </div>
   );
 }
